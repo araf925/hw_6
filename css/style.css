@@ -1,0 +1,236 @@
+body{
+	font-family: sans-serif;
+}
+.top{
+	overflow: hidden;
+	background-color: #535D69;
+	margin: -8px -10px;
+}
+h5{
+	float: left;
+	color: white ;
+	margin: 8px 0px 0px 290px;
+	/*padding: 5px 5px 5px 5px;*/
+}
+.first{
+	float: right;
+	margin: 5px 210px 5px 5px;
+}
+.header{
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	width: 20%;
+	margin: 11px 0px 0px 50px;
+	padding: 5px 5px 5px 5px;
+}
+.nav{
+	float: right;
+	width: 60%;
+	margin: 17px 100px 5px 5px;
+}
+.nav ul{
+	float: left;
+	list-style: none;
+}
+.nav ul li{
+	float: left;
+}
+.nav ul li a{
+	text-decoration: none;
+	padding: 0px 15px 0px 5px;
+	color: #646464;
+	transition: 0.5s;
+}
+.nav ul li a:hover{
+	color:#C34C68; 
+}
+.banner{
+	overflow: hidden;
+	background-image: url("../images/a-cup-of-espresso-beside-a-man-using-computer-laptop-3774040.jpg");
+    background-repeat: no-repeat;	
+    background-size: cover;
+   background-position: center;
+}
+.wrapper{
+	margin: 70px 0px 0px 240px;
+	padding: 5px 5px 5px 5px;
+}
+.banner h1{
+	color: white;
+	font-size: 30px;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+.banner p{
+	color: white;
+	margin: 0px 0px 20px 0px;
+	font-family:cursive;
+}
+
+.link{
+	background-color: #BD233F;
+	padding: 5px;
+    margin: 5px 5px 5px 5px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 10px 15px 10px 15px;
+    font-family: cursive;
+}
+.banner2{
+	overflow: hidden;
+}
+.banner2 h1{
+	text-align: center;
+	padding: 70px 0px 10px 0px; 
+}
+.words{
+	text-align: center;
+	color: #C0C0C0;
+	padding: 0px 360px;
+}
+.single{
+	margin: 11px 0px 0px 170px;
+	padding: 5px 5px 5px 5px;
+	float: left;
+}
+.imgsin{
+	width: 100%;
+	padding: 5px;
+	height: 100px;
+	width: 100px;
+	margin: 0px 0px 0px 50px;
+}
+.banner3{
+	background-color:#FAFAFA;
+	overflow: hidden;
+	margin: 5px 5px 5px 5px;
+}
+.box{
+	    margin: 90px 0px 0px 145px;
+    float: left;
+    width: 40%;
+}
+.box h2{
+   font-size: 26px;
+    margin: 5px 0px 15px 11px;
+}
+.box p{
+	font-size: 13px;
+    color: #C0C0C0;
+    margin: 0px 0px 30px 5px;
+    padding: 5px 5px 5px 5px;
+}
+.box a{
+     font-size: 13px;
+    color: #C0C0C0;
+    margin: 0px 0px 30px 5px;
+    padding: 5px 5px 5px 5px;
+
+}
+iframe{
+	float: right;
+    width: 40%;
+    margin: 90px 205px 60px 0px;
+    width: 440px;
+    height: 216px;
+}
+.box2{
+	margin-top: 90px;
+}
+.box2 h1{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.box2 p{
+	text-align: center;
+	margin-bottom: 60px;
+	color: #C0C0C0;
+	font-size: 12px;
+}
+.banner4{
+	overflow: hidden;
+	margin: 0px 0px 0px 225px;
+}
+.single2{
+	text-align: center;
+	box-shadow: 10px -10px 12px 9px #FAFAFA;
+	float: left;
+	margin: 5px 0px 0px 10px;
+	padding: 5px 5px 5px 5px;
+}
+.img2{
+	width: 100%;
+	height: 50px;
+	width: 50px;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+.single2 h4{
+	font-size: 20px;
+	margin: 2px 2px 2px 2px;
+	padding: 2px 2px 2px 2px;
+}
+.single2 p{
+	font-size: 10px;
+	color: #C0C0C0;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+.feel{
+	margin: 60px 0px 100px 620px;
+	overflow: hidden;
+}
+.features{
+	text-align: center;
+	border-radius: 5px;
+	color: #C75A71;
+	padding: 5px;
+	margin: 5px 5px 5px 5px;
+	text-decoration: none;
+	background-color: white;
+	font-size: 12px;
+}
+.banner5{
+	background-color: black;
+	overflow: hidden;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+.single3{
+	float: left;
+	margin: 40px 0px 50px 145px;
+	padding: 5px 5px 5px 5px;
+}
+.single3 h4{
+	 margin: 24px 16px 17px 43px;
+    color: #B42A41;
+}
+.single3 ul{
+	 list-style: tibetan;
+	 font-size: 10px;
+}
+.single3 ul li{
+	 margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    color: white;
+}
+.single3 p{
+	font-size: 10px;
+	color: white;
+	margin: 5px 5px 5px 5px;
+}
+footer{
+	text-align: center;
+	font-size: 10px;
+	color: white;
+	background-color: #535D69;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+
